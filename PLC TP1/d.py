@@ -1,17 +1,16 @@
 import json
+import re
 
-''' Suponho que seja algo assim??
+''' 
 
+"CommentThread" : [
 {
-        Processo: "582"
-        Data: "1909-05-12"
-        Nomes:
-            "Abel Almeida"
-            "Antonio Manuel Almeida
-            "Teresa Maria Sousa"
+    "Processo" : "582",
+    "Data" : "1909-05-12",
+    "Nomes" : "Abel Almeida","Antonio Manuel Almeida", "Teresa Maria Sousa"
     },
-        
-'''
+    
+''' 
 
 def d():
     N=20
