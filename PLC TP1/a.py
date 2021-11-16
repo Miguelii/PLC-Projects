@@ -5,7 +5,7 @@ linhas = f.readlines()
 datas = {}
 
 for i in linhas:
-    new_text = re.search(r'([0-9]{3})::([0-9]{4})', i)
+    new_text = re.search(r'([0-9]+)::([0-9]{4})', i)
     if new_text:
         data = new_text.group(2)
         processo = new_text.group(1)
