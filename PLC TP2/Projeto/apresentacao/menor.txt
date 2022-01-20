@@ -1,0 +1,21 @@
+num n 
+le(n)
+num y = 0
+num m 
+num x 
+num i = 1 
+desde i ate i<n+1,+1: 
+    (
+    le(x)
+    se y==0: (
+        m = x
+        y = 1     
+        )
+    else (
+        se x<m: (
+            m = x
+        )
+    )
+    imprime(m)
+    )
+devolve(m)

@@ -1,0 +1,19 @@
+num x 
+num y 
+num z 
+num w 
+imprime("variavel")
+le(x)
+imprime("variavel")
+le(y)
+imprime("variavel")
+le(z)
+imprime("variavel")
+le(w)
+num r = 0
+num soma = 0
+se x==y:(soma = soma +1)
+se y==z:(soma = soma +1)
+se z==w:(soma = soma +1)
+se soma==3:(r=1)
+devolve(r)

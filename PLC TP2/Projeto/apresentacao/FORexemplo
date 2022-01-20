@@ -1,0 +1,4 @@
+num i 
+desde i ate i<6,+1:(
+	imprime(i)
+	)

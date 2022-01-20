@@ -1,0 +1,6 @@
+num x = 0 
+num y
+se x==1: (y=2) else (y=x)
+
+y = y+1
+devolve(y)

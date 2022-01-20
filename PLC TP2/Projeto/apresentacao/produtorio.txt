@@ -1,0 +1,12 @@
+num n 
+le(n)
+num i = 1 
+num x
+num r = 1 
+
+desde i ate i<n+1,+1: (
+    le(x)
+    num r = r * x 
+)
+
+devolve(r)

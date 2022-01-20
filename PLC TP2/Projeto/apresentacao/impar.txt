@@ -1,0 +1,18 @@
+num n 
+le(n)
+num c 
+num x 
+num y
+num i
+
+desde i ate i<n,+1:(
+    le(x)
+    num y = x%2
+    se y==0: 
+    (imprime("par"))
+    else (
+        num c = c+1 
+        imprime("impar")
+    )
+)
+devolve(c)
