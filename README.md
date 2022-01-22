@@ -1,3 +1,7 @@
+*Avaliação:*
+- *Trabalho 1: 14 valores*
+- *Trabalho 2: 14 valores*
+
 Instruções para a máquina virtual:
 - Unzip vms-vf.zip
 - Fazer Make
