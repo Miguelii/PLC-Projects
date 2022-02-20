@@ -1,6 +1,6 @@
 *Avaliação:*
 - Trabalho 1 - Expressões regulares e filtros de texto: 14 valores
-- Trabalho 2- Complidaor em Yacc: 14 valores
+- Trabalho 2 - Complidaor em Yacc: 14 valores
 
 *Instruções para a máquina virtual:*
 - Unzip vms-vf.zip
